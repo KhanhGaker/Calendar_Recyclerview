@@ -5,4 +5,4 @@ Example Calendar Recyclerview
 
 # Photo Demo
 Pho to
-![image](https://github.com/KhanhGaker/Calendar_Recyclerview/assets/144937229/c55fe780-f38e-4fdb-a09f-9940060bf05b)
+![Screenshot_20231015_122838](https://github.com/KhanhGaker/Calendar_Recyclerview/assets/144937229/ebd43a2c-ac06-4fd2-9099-e3ba65c70475)

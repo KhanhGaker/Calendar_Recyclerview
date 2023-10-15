@@ -1,5 +1,5 @@
 # Calendar_Recyclerview
-Example Calendar Recyclerview
+Ví dụ cơ bản, về việc sử dụng Recyclerview để show Calendar.
 # Video Demo
 [Screen_recording_20231015_122327.webm](https://github.com/KhanhGaker/Calendar_Recyclerview/assets/144937229/397819a7-7d0e-4378-b51a-998c69c33d49)
 
